@@ -13,7 +13,7 @@ We have the following tracks for you to choose from:
 We will be using [Google Colab](https://research.google.com/colaboratory/faq.html) notebooks during the workshop. 
 
 * [Setting up Google Colab](https://medium.com/lean-in-women-in-tech-india/google-colab-the-beginners-guide-5ad3b417dfa)
-* You can find the notebook used during the workshop [here]().
+* You can find the notebook used during the workshop [here](https://github.com/ashmibanerjee/FTL-bigdatahack-yahoo-starter/blob/master/FTL_finance_track.ipynb).
 
 
 ## Individuals and the Media: Analyze COVID-19 Tweets in Real-time using Twitter’s real-time API
